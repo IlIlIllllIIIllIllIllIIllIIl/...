@@ -1,2 +1,0 @@
-# SkidSearch
-Skid Search
